@@ -1,0 +1,19 @@
+{
+  "name": "Grow 2014",
+  "description": "Grow 2014 Mozilla Event App - Tunisia",
+  "type": "privileged",
+  "version":"0.1.0",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Mozilla Tunisia",
+    "url": "https://github.com/anefzaoui/GrowMozillaApp"
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "60": "/style/icons/icon_60.png",
+    "90": "/style/icons/icon_90.png",
+    "120": "/style/icons/icon_120.png",
+    "135": "/style/icons/icon_135.png"
+  },
+  "orientation": "default"
+}
